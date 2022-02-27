@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="eff-try-out_3058" />
+    <profile name="sbt 2" modules="eff-try-out">
+      <parameters>
+        <parameter value="-Ykind-projector:underscores" />
+      </parameters>
+    </profile>
+  </component>
+</project>
