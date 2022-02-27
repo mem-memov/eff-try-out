@@ -1,5 +1,6 @@
 import cats.data.Reader
 import org.atnos.eff._, syntax.all._
+//import org.atnos.eff.syntax.all._
 
 // https://www.rea-group.com/about-us/news-and-insights/blog/a-journey-into-extensible-effects-in-scala/
 // https://atnos-org.github.io/eff/org.atnos.site.Tutorial.html
