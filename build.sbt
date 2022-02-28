@@ -16,5 +16,7 @@ lazy val root = project
 
     libraryDependencies += "org.atnos" %% "eff" % "5.22.0",
     autoCompilerPlugins := true,
-    scalacOptions += "-Ykind-projector:underscores"
+    scalacOptions += "-Ykind-projector:underscores",
+
+    libraryDependencies += "org.atnos" %% "eff-cats-effect" % "5.23.0"
   )
